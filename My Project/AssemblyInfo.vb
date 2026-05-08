@@ -7,11 +7,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Military3DMap")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyTitle("Military 3D Map")>
+<Assembly: AssemblyDescription("Bản đồ địa hình quân sự 3D")>
+<Assembly: AssemblyCompany("Ban bản đồ/Phòng Tác chiến Quân khu 5")>
 <Assembly: AssemblyProduct("Military3DMap")>
-<Assembly: AssemblyCopyright("Copyright ©  2022")>
+<Assembly: AssemblyCopyright("Copyright © 2023")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -30,5 +30,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("0.9.0.9")>
+<Assembly: AssemblyFileVersion("0.9.0.9")>

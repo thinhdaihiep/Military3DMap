@@ -1,0 +1,1 @@
+/startin "[ProgramFilesFolder][ProductName]" 07\07\2019 00:00:00 "[ProgramFilesFolder][ProductName]\Military3DMap.exe"

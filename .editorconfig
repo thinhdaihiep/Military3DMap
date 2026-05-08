@@ -1,0 +1,13 @@
+﻿[*.vb]
+
+# BC40000: Type or member is obsolete
+dotnet_diagnostic.BC40000.severity = silent
+
+# IDE1006: Naming Styles
+dotnet_diagnostic.IDE1006.severity = none
+
+# BC42018: Operands of type Object used for operator
+dotnet_diagnostic.BC42018.severity = silent
+
+# BC42017: Late bound resolution
+dotnet_diagnostic.BC42017.severity = silent
